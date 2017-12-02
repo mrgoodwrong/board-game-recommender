@@ -109,7 +109,7 @@ def corresponding_games(games_list, data):
 def recommend_games(games_list, data):
     
     """
-    This function uses Eucledian distance to calculate the similarity between the Average Game
+    This function uses Euclidean distance to calculate the similarity between the Average Game
     and the games left after the categorial data filtering. 
     """
     
